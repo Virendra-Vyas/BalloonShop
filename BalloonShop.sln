@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalloonShop", "D:\E-Commerce Project\BalloonShop\BalloonShop\BalloonShop.csproj", "{B165C865-BC82-4D32-825B-8521EC6CF59B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalloonShop.Tests", "BalloonShop.Tests\BalloonShop.Tests.csproj", "{1B561C17-1ED0-4952-960C-C0EF02AEEDEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B165C865-BC82-4D32-825B-8521EC6CF59B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B165C865-BC82-4D32-825B-8521EC6CF59B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B165C865-BC82-4D32-825B-8521EC6CF59B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B165C865-BC82-4D32-825B-8521EC6CF59B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B561C17-1ED0-4952-960C-C0EF02AEEDEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B561C17-1ED0-4952-960C-C0EF02AEEDEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B561C17-1ED0-4952-960C-C0EF02AEEDEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B561C17-1ED0-4952-960C-C0EF02AEEDEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7E51783-198A-4905-88C0-B96C039A4039}
+	EndGlobalSection
+EndGlobal
